@@ -9,7 +9,7 @@ NAME
 	Emulator::insertMemory - stores content on memory location
 SYNOPSIS
 	bool Emulator::insertMemory(int a_location, long long a_contents);
-	a_location -> location for storeing transnlated code
+	a_location -> location for storing translated code
 	a_contents -> content is to be stored.
 DESCRIPTION
 	Stores the translated code in the specified memory location.
